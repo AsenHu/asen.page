@@ -8,7 +8,9 @@ subtitle: 'Scattered pages'
 description: 'A place to record life and thoughts.'
 keywords: 'Asen, AsenHu, Blog, Life, Record, Thoughts, Technology, Programming, Code, Web, Frontend, Backend, Fullstack, Developer, Engineer, Software, Engineer, Software Engineer, Software Developer, Software Development'
 author: Asen Hu
-language: zh
+language:
+  - en
+  - zh-Hans
 timezone: 'Asia/Shanghai'
 
 # URL
